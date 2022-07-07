@@ -22,3 +22,11 @@ font-family: 'Roboto', sans-serif;
 p{
     color: #fff;
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 400;
+}
